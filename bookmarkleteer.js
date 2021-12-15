@@ -12,6 +12,7 @@ if (active === true) {
     return "<a href='"+bookmarklet_content+"' class='"+class+"'>"+link_name+"</a>"
 
   };
+  
 };
 };
 function _initBML_() {

@@ -16,4 +16,7 @@
     "url": "https://github.com/TogiFerret/Bookmarkleteer/issues"
   },
   "homepage": "https://github.com/TogiFerret/Bookmarkleteer#readme"
+  "publishConfig": {
+   "@TogiFerret:registry": "https://npm.pkg.github.com"
+ }
 }
